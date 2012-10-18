@@ -10,3 +10,5 @@ I worked on this module a long time ago. not sure it works with the current rele
 Author
 ------
 Sebastian Schumann (seb.schumann@gmail.com)
+
+Note: I only modified an existing module, the original authors are mentioned in the module's source code.
